@@ -15,11 +15,6 @@ This project implements the **Apriori Algorithm** for Market Basket Analysis to 
 3. **Training the Apriori model**: Using the `apyori` library to apply the Apriori algorithm on the transactions.
 4. **Visualizing the results**: Displaying the association rules, supports, confidences, and lifts in a well-organized manner.
 
-## 🚀 How to Run  
+## 🚀 How to Run
 1. Install dependencies using:  
-   ```bash
-  pip install apyori numpy matplotlib pandas
-  
-2. Ensure the dataset (Market_Basket_Optimisation.csv) is available in the same directory as the script.
-3. Run the script:
-You can execute the script in a Python environment or Jupyter notebook to generate the association rules and insights.
+2. Run the Python script `kmeans_clustering.py` or execute the code in a Jupyter Notebook.
