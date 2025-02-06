@@ -17,4 +17,4 @@ This project implements the **Eclat Algorithm** for Market Basket Analysis, aime
 
 ## 🚀 How to Run
 1. Install dependencies using:  
-2. Run the Python script `kmeans_clustering.py` or execute the code in a Jupyter Notebook.
+2. Run the Python script 'eclat.py` or execute the code in a Jupyter Notebook.

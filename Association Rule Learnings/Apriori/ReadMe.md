@@ -17,4 +17,4 @@ This project implements the **Apriori Algorithm** for Market Basket Analysis to 
 
 ## 🚀 How to Run
 1. Install dependencies using:  
-2. Run the Python script `kmeans_clustering.py` or execute the code in a Jupyter Notebook.
+2. Run the Python script `apriori.py` or execute the code in a Jupyter Notebook.
