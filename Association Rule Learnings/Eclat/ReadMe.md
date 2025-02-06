@@ -19,6 +19,7 @@ This project implements the **Eclat Algorithm** for Market Basket Analysis, aime
 1. Install dependencies using:  
    ```bash
    pip install apyori numpy matplotlib pandas
+   
 2. Ensure the dataset (Market_Basket_Optimisation.csv) is available in the same directory as the script.
 3. Run the script:
 You can execute the script in a Python environment or Jupyter notebook to generate the association rules and insights.
